@@ -473,6 +473,10 @@
     .typewriter-message{
         font-size: 25px;
     }
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
+    }
 }
 
 @media screen and (max-width: 420px){
@@ -520,6 +524,11 @@
 
     #type-h{
         padding-bottom: 40px;
+    }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
     }
     /* .w-94{
         width: 100%;
@@ -587,6 +596,11 @@
     .about-me{
         padding-left: 0;
     }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
+    }
 }
 
 
@@ -621,11 +635,21 @@
     .media-r-0{
         margin-right: 0;
     }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
+    }
 }
 
 @media screen and (min-width: 765px) and (max-width: 890px){
     .skills-div-parent{
         width: 90%;
+    }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
     }
 }
 
@@ -661,6 +685,11 @@
      nav .nav.navbar-nav{
         display: flex;
     }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
+    }
 }
 
 @media screen and (max-width: 800px){
@@ -669,6 +698,11 @@
     }
     #about-divider, .created-divider{
         font-size: 24px;
+    }
+    
+    #outstanding{
+        padding-top: 100px;
+        visibility: hidden;
     }
 
 }
