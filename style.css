@@ -11,6 +11,11 @@ li{
 }
 
 
+#rutgers:hover {
+    border-color:black;
+    border-style: ridge;
+}
+
 
 footer {
   background-color: #000000;
