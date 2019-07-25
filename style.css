@@ -51,8 +51,7 @@ footer {
 }
 
 .dash{
-/*     background-color: rgb(245, 241, 241); */
-     background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 241, 241);
 }
 
 /* Turn off parallax scrolling for tablets and phones */
