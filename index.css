@@ -475,6 +475,7 @@
     }
     #outstanding{
         padding-top: 100px;
+        height: 5px;
         visibility: hidden;
     }
 }
@@ -527,7 +528,8 @@
     }
     
     #outstanding{
-        padding-top: 100px;
+        padding-top: 100px;;
+        height: 5px;
         visibility: hidden;
     }
     /* .w-94{
@@ -598,7 +600,8 @@
     }
     
     #outstanding{
-        padding-top: 100px;
+        padding-top: 100px;;
+        height: 5px;
         visibility: hidden;
     }
 }
@@ -648,7 +651,8 @@
     }
     
     #outstanding{
-        padding-top: 100px;
+        padding-top: 100px;;
+        height: 5px;
         visibility: hidden;
     }
 }
@@ -687,7 +691,8 @@
     }
     
     #outstanding{
-        padding-top: 100px;
+        padding-top: 100px;;
+        height: 5px;
         visibility: hidden;
     }
 }
@@ -701,7 +706,8 @@
     }
     
     #outstanding{
-        padding-top: 100px;
+        padding-top: 100px;;
+        height: 5px;
         visibility: hidden;
     }
 
